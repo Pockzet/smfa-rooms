@@ -1,0 +1,14 @@
+{
+  "name": "smfa-rooms",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-10-08",
+  "migrations": [
+    { "tag": "v1", "new_sqlite_classes": ["MyDurableObject"] }
+  ],
+  "durable_objects": {
+    "bindings": [
+      { "name": "MY_DURABLE_OBJECT", "class_name": "MyDurableObject" }
+    ]
+  },
+  "observability": { "enabled": true }
+}
