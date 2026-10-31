@@ -1,5 +1,5 @@
 {
-  "name": "smfa-rooms",
+  "name": "smfa-roooms",
   "main": "src/index.ts",
   "compatibility_date": "2025-10-08",
   "migrations": [
