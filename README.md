@@ -1,2 +1,2 @@
 # smfa-rooms
-just the server for smfa v1
+just the server for smfa v2
